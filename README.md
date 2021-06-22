@@ -33,6 +33,7 @@ List of contents:
   Please make sure you delete all files in 'uploads' folder before
   running (i.e. everytime the program is run, 'uploads' should be 
   empty'.
+  If "pip install docx" doesn't work, try using "pip install python-docx"
 	
   NOTE- make sure you store 'index.html' in 'templates' folder, which
   is in the same location where the program runs from (either C:/ or
