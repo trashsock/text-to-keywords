@@ -1,3 +1,6 @@
+# pip install docx
+# pip install python-docx (only if docx doesn't work)
+
 import docx
 
 def ExtractTextFromDocx(filename):
