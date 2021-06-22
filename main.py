@@ -1,3 +1,5 @@
+# pip install requests
+
 import requests
 from pdfRead import ExtractTextFromPDF
 from docRead import ExtractTextFromDocx
