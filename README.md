@@ -39,6 +39,10 @@ List of contents:
   is in the same location where the program runs from (either C:/ or
   D:/ in Windows). Also make sure you have an 'uploads' folder present
   in the same location.
+  
+  *It is important to note that the file should not contain any unnecessary
+  spaces or characters.
+  
 ```
 
 ```
